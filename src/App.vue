@@ -6,16 +6,19 @@
     </nav>
 
     <router-view />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Skills from './components/Skills.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'app',
   components: {
-    Skills
+    Skills,
+    Footer
   }
 }
 </script>
