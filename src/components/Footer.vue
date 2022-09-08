@@ -18,7 +18,7 @@ Jinotepe, Carazo, Nicaragua<br>
     <p>© Copyright CodeCrafters Labs. All Rights Reserved</p>
     
     <div class="legal__links">
-      <span>Designed by  <a href="https://www.linkedin.com/in/jean-cairoli-a94a6622a/" target="_blank">Jean Cairoli</a> </span>
+      <span>Designed by <a href="https://www.linkedin.com/in/jean-cairoli-a94a6622a/" target="_blank">Jean Cairoli</a> </span>
     </div>
   </div>
 </footer>
